@@ -25,7 +25,7 @@ SECRET_KEY = '+tb*+u8invi8b&$75rdu3bhe@!%##k1bqjrh-yqj)%62&yqgy*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['efefre.pythonanywhere.com']
+ALLOWED_HOSTS = ['efefre.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
